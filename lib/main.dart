@@ -61,6 +61,12 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+  void _decrementCounter() {
+    setState(() {
+      _counter--;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -78,6 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: GestureDetector(
             onTap: _incrementCounter,
+            onLongPress: _decrementCounter,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[

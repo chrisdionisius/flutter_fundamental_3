@@ -1,6 +1,18 @@
 # flutter_fundamental_3
 
-A new Flutter project.
+Praktukum Modul 16 TSA Mobile Flutter Program
+
+# Praktikum1
+
+![Screenshot Hello World](images/SS_project1.png)
+
+# Praktikum2
+
+![Screenshot Hello World](images/SS_project_2.png)
+
+# Praktikum3
+
+![Screenshot Hello World](images/SS_project_2.png)
 
 ## Getting Started
 

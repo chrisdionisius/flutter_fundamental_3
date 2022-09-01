@@ -4,15 +4,18 @@ Praktukum Modul 16 TSA Mobile Flutter Program
 
 # Praktikum1
 
-![Screenshot Hello World](images/SS_project1.png)
+![Screenshot Hello World](images/SS_project_1.png)
+Pada praktikum ini ketika kita menekan logo Polinema maka value dari variable counter akan bertambah 1, Sementara jika kita menekan tahan pada logo maka value dari variable counter akan berkurang 1.
 
 # Praktikum2
 
 ![Screenshot Hello World](images/SS_project_2.png)
+Pada praktikum ini ketika mengisikan value pada widget TextFormField yang pertama maka value tersebut akan langsung ditampilkan pada widget text di atasnya, hal ini dapat dilakukan karena pada TextEditingController ditambahkan event listener yang bertugas mengupdate value pada TextEditingController setiap kali value tersebut berubah.
 
 # Praktikum3
 
 ![Screenshot Hello World](images/SS_project_2.png)
+Pada praktikum ini TextField yang disediakan hanya bisa menerima inputan berupa angka, hal ini dapat dilakukan karena ditambahkan widget FormFieldValidator yang bertugas mengvalidasi inputan yang diinputkan oleh user.
 
 ## Getting Started
 

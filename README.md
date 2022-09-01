@@ -14,7 +14,7 @@ Pada praktikum ini ketika mengisikan value pada widget TextFormField yang pertam
 
 # Praktikum3
 
-![Screenshot Hello World](images/SS_project_2.png)
+![Screenshot Hello World](images/SS_project_3.png)
 Pada praktikum ini TextField yang disediakan hanya bisa menerima inputan berupa angka, hal ini dapat dilakukan karena ditambahkan widget FormFieldValidator yang bertugas mengvalidasi inputan yang diinputkan oleh user.
 
 ## Getting Started
